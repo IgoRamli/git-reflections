@@ -26,7 +26,8 @@ How do the diagrams help you visualize the branch structure?
 
 
 What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+ the diagram the way we do?
+	Merging two branches creates a folder with all of the changes in the previous commits done. We represent it in diagram to make it clear that the two branches has merged and it contains the characteristics from both branch
 
 
 
